@@ -1,4 +1,4 @@
-# here is
+
 import time as tm
 import os
 from colorama import Fore, Style
@@ -9,7 +9,7 @@ seqNum = 0
 run = True
 while run:
     os.system('cls')
-
+    #NASSIM HIDOUCHE NASSIMAX
     def main(num):
         Xnum = [int(x) for x in str(num)]
         Xnum.reverse()
